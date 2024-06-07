@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: baominh/frontend
   pullPolicy: IfNotPresent
-  tag: "30"
+  tag: "31"
 
 imagePullSecrets: []
 nameOverride: ""
